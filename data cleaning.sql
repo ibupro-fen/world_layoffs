@@ -185,7 +185,7 @@ SELECT *
 FROM  layoffs_staging2 
 WHERE total_laid_off IS NULL
 AND percentage_laid_off IS NULL;	
-										-- Just an example dont have to always delete it 
+										
 DELETE
 FROM  layoffs_staging2 
 WHERE total_laid_off IS NULL
