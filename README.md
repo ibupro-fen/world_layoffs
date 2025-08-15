@@ -22,3 +22,16 @@ This project was being worked on using mySQL workbench which makes it easy to im
 CREATE DATABASE world_layoffs_db
 
 CREATE TABLE layoffs
+(
+company VARCHAR(30),
+location VARCHAR(30),
+industry VARCHAR(30),
+total_laid_off INT,
+percentage_laid_off DOUBLE,
+date VARCHAR(30),
+stage VARCHAR(30),
+country VARCHAR (30),
+funds_raised_millions INT
+);
+```
+
