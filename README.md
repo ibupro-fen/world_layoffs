@@ -2,6 +2,7 @@
 
 The purpose of this  project is to demonstrate SQL skills and techniques used to clean data and explore the layoffs data
 Starting off, setting a goal in mind for what we are looking for is ideal, especially when exploring data
+<img width="711" height="892" alt="image" src="https://github.com/user-attachments/assets/910c8c8c-d76e-4f49-8af6-b14df7c632a5" />
 
 ## Data Cleaning
 - Remove Duplicates
